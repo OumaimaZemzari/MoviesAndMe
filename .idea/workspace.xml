@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="071870fa-f9ee-40a2-90f9-eb0e12a28c48" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="FilmDetail.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Components/FilmDetail.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4216">
+              <caret line="255" column="39" selection-start-line="255" selection-start-column="39" selection-end-line="255" selection-end-column="39" />
+              <folding>
+                <element signature="e#29#54#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FilmItem.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Components/FilmItem.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="782">
+              <caret line="49" column="82" selection-start-line="49" selection-start-column="70" selection-end-line="49" selection-end-column="82" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Search.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Components/Search.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="13" column="65" selection-start-line="13" selection-start-column="65" selection-end-line="13" selection-end-column="65" />
+              <folding>
+                <element signature="e#25#50#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Navigation.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Navigation/Navigation.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#152#201#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EnlargeShrink.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Animations/EnlargeShrink.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="663">
+              <caret line="40" column="28" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FadeIn.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Animations/FadeIn.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="6" column="77" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="77" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FilmList.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Components/FilmList.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>main_container</find>
+      <find>favoritesFilm</find>
+      <find>favorite_image</find>
+      <find>image</find>
+      <find>share_image</find>
+      <find>EnlargeShrink</find>
+      <find>FilmList</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Components/filmsData.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/Store/Reducers/configureStore.js" />
+        <option value="$PROJECT_DIR$/Components/TestAnim.js" />
+        <option value="$PROJECT_DIR$/Animations/FadeIn.js" />
+        <option value="$PROJECT_DIR$/Animations/EnlargeShrink.js" />
+        <option value="$PROJECT_DIR$/android/build.gradle" />
+        <option value="$PROJECT_DIR$/ios/MoviesAndMe/Info.plist" />
+        <option value="$PROJECT_DIR$/Components/FilmList.js" />
+        <option value="$PROJECT_DIR$/Store/Reducers/favoriteReducer.js" />
+        <option value="$PROJECT_DIR$/Components/Avatar.js" />
+        <option value="$PROJECT_DIR$/Components/Search.js" />
+        <option value="$PROJECT_DIR$/Store/Reducers/avatarReducer.js" />
+        <option value="$PROJECT_DIR$/App.js" />
+        <option value="$PROJECT_DIR$/API/TMDBApi.js" />
+        <option value="$PROJECT_DIR$/Components/News.js" />
+        <option value="$PROJECT_DIR$/android/gradle.properties" />
+        <option value="$PROJECT_DIR$/android/app/build.gradle" />
+        <option value="$PROJECT_DIR$/Store/Reducers/vusReducer.js" />
+        <option value="$PROJECT_DIR$/Store/configureStore.js" />
+        <option value="$PROJECT_DIR$/Components/FilmDetail.js" />
+        <option value="$PROJECT_DIR$/Components/Favorites.js" />
+        <option value="$PROJECT_DIR$/Components/FilmItem.js" />
+        <option value="$PROJECT_DIR$/Components/FilmsVus.js" />
+        <option value="$PROJECT_DIR$/Components/FilmVusItem.js" />
+        <option value="$PROJECT_DIR$/Components/Test.js" />
+        <option value="$PROJECT_DIR$/Navigation/Navigation.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-6" />
+    <option name="y" value="1" />
+    <option name="width" value="1378" />
+    <option name="height" value="733" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MoviesAndMe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MoviesAndMe" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MoviesAndMe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MoviesAndMe" type="462c0819:PsiDirectoryNode" />
+              <item name="Animations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MoviesAndMe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MoviesAndMe" type="462c0819:PsiDirectoryNode" />
+              <item name="Components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MoviesAndMe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MoviesAndMe" type="462c0819:PsiDirectoryNode" />
+              <item name="Images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MoviesAndMe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MoviesAndMe" type="462c0819:PsiDirectoryNode" />
+              <item name="Navigation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MoviesAndMe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MoviesAndMe" type="462c0819:PsiDirectoryNode" />
+              <item name="Store" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MoviesAndMe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MoviesAndMe" type="462c0819:PsiDirectoryNode" />
+              <item name="Store" type="462c0819:PsiDirectoryNode" />
+              <item name="Reducers" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Client/appliclientv2" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\WebstormProjects\MoviesAndMe\Components" />
+      <recent name="C:\Users\user\WebstormProjects\MoviesAndMe\Store" />
+      <recent name="C:\Users\user\WebstormProjects\MoviesAndMe\Helpers" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="071870fa-f9ee-40a2-90f9-eb0e12a28c48" name="Default" comment="" />
+      <created>1585482352385</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585482352385</updated>
+      <workItem from="1585482355441" duration="58530000" />
+      <workItem from="1586265698874" duration="5382000" />
+      <workItem from="1586531901718" duration="7400000" />
+      <workItem from="1586693138821" duration="598000" />
+      <workItem from="1587029568046" duration="15723000" />
+      <workItem from="1587288536485" duration="1966000" />
+      <workItem from="1587466228644" duration="108000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="89707000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="1" width="1378" height="733" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5462046" visible="true" weight="0.25149253" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32838285" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Structure" order="1" sideWeight="0.45379537" side_tool="true" weight="0.25074404" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.35462186" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/android/gradlew">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2924">
+          <caret line="172" selection-start-line="172" selection-end-line="172" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/gradlew.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1428">
+          <caret line="84" selection-start-line="84" selection-end-line="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Animations/EnlargeShrink.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/app/build_defs.bzl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Navigation/Navigation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Components/TestAnim.js" />
+    <entry file="file://$PROJECT_DIR$/Components/FilmItem.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="43" lean-forward="true" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Animations/FadeIn.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="77" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Animations/EnlargeShrink.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Components/Test.js" />
+    <entry file="file://$PROJECT_DIR$/Components/FilmDetail.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="e#29#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.expo-shared/assets.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/splash.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/icon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.expo/settings.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.expo/packager-info.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Helpers/filmsData.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/babel.config.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/local.properties.txt" />
+    <entry file="file://$PROJECT_DIR$/android/gradlew">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2924">
+          <caret line="172" selection-start-line="172" selection-end-line="172" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/gradlew.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1428">
+          <caret line="84" selection-start-line="84" selection-end-line="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/app/build_defs.bzl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/MoviesAndMe/Info.plist">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="80" column="4" selection-start-line="80" selection-start-column="4" selection-end-line="80" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Store/Reducers/avatarReducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <folding>
+            <element signature="e#11#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API/TMDBApi.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Components/News.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+          <folding>
+            <element signature="e#25#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/gradle.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="120" column="19" selection-start-line="120" selection-start-column="19" selection-end-line="120" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Store/configureStore.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="79" selection-start-line="16" selection-start-column="79" selection-end-line="16" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Store/Reducers/vusReducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="24" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Store/Reducers/favoriteReducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Components/FilmsVus.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="21" column="9" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="21" selection-end-column="9" />
+          <folding>
+            <element signature="e#28#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Components/FilmVusItem.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="25" column="32" lean-forward="true" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Components/Avatar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="34" column="73" selection-start-line="34" selection-start-column="73" selection-end-line="34" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Components/Favorites.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+          <folding>
+            <element signature="e#28#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Components/FilmDetail.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4216">
+          <caret line="255" column="39" selection-start-line="255" selection-start-column="39" selection-end-line="255" selection-end-column="39" />
+          <folding>
+            <element signature="e#29#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Components/FilmItem.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="49" column="82" selection-start-line="49" selection-start-column="70" selection-end-line="49" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Components/Search.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="13" column="65" selection-start-line="13" selection-start-column="65" selection-end-line="13" selection-end-column="65" />
+          <folding>
+            <element signature="e#25#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Components/FilmList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Animations/FadeIn.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="77" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Animations/EnlargeShrink.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="40" column="28" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Components/Test.js" />
+    <entry file="file://$PROJECT_DIR$/Components/TestAnim.js" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Navigation/Navigation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#152#201#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
